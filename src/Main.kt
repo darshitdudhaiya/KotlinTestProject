@@ -1,4 +1,4 @@
-fun main(args: Array<String>) {
+fun main() {
     println("Hello World!")
     print(1+2)
     print(false)
